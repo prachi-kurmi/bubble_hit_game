@@ -117,4 +117,7 @@ html, body {
     }
 }
 
-
+.bubble:hover{
+    cursor: pointer;
+    background-image: linear-gradient(to top, #023e9c, #1545a2, #224ca8, #2c54ae, #355bb4);
+}
